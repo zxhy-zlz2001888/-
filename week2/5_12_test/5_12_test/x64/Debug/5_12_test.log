@@ -1,0 +1,6 @@
+﻿  12.c
+D:\develop\c-daima\week2\5_12_test\5_12_test\12.c(58,24): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\develop\c-daima\week2\5_12_test\5_12_test\12.c(58,34): error C2059: 语法错误:“)”
+D:\develop\c-daima\week2\5_12_test\5_12_test\12.c(83,23): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\develop\c-daima\week2\5_12_test\5_12_test\12.c(83,33): error C2059: 语法错误:“)”
+D:\develop\c-daima\week2\5_12_test\5_12_test\12.c(67,5): error C2043: 非法 break
